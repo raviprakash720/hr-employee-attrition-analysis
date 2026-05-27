@@ -19,7 +19,7 @@ This project analyzes employee data to understand the reasons behind attrition (
 ## 📊 Key Analysis Performed
 
 * Data cleaning and preprocessing
-* Exploratory Data Analysis (EDA)
+* Exploratory Data Analysis 
 * Employee satisfaction vs attrition
 * Promotion and salary impact
 * Workload and project distribution
